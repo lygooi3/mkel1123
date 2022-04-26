@@ -13,22 +13,22 @@ It will perform the LED Blink program which the board LED will blink at an inter
 **GitHub Attachments :**
 | Files |  Description|
 |--|--|
-| main.c | The main LED Blink source code for Nucleo-F446RE development kit. |
+| main.c | The main LED Blink source code for Nucleo-F446RE development board. |
 | ReadMe.md | Provide information about this example. |
-| pic.jpg | Photo of the Nucleo-F446RE development board|
+| pic.jpg | Photo of the Nucleo-F446RE development board.|
 
 ## Procedure
 
  1. Install the STM32CubeIDE development tool. 
  2. Create a new project, and select the appropriate board or device.
  3. Refer to the .IOC file to acquire the pin location for the board LED.
- *Note : Nucleo-F446RE development board have its board LED at PA5.
+ *Nucleo-F446RE development board have its board LED at PA5.
  4. Add HAL_GPIO_TogglePin() and HAL_Delay() APIs in the provided main.c source code. 
  5. You may modify the pins based on the .IOC file, and delay period to your liking.
  6. Build the application project.
  7. Download the ELF file into your development board.
 
-#### Nucleo-F446RE development kit
+#### Nucleo-F446RE development board
 <img src="https://github.com/lygooi3/mkel1123/blob/main/milestone1/pic.jpg" width="500" height="500">
 
 #### YouTube Link
