@@ -29,7 +29,7 @@ It will perform the LED Blink program which the board LED will blink at an inter
  7. Download the ELF file into your development board.
 
 #### Nucleo-F446RE development kit
-<img src="https://github.com/lygooi3/mkel1123/blob/main/pic.jpg" width="500" height="500">
+<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone1/pic.jpg" width="500" height="500">
 
 #### YouTube Link
 
