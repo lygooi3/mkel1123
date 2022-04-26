@@ -15,7 +15,7 @@ It will perform the LED Blink program which the board LED will blink at an inter
 |--|--|
 | main.c | The main LED Blink source code for Nucleo-F446RE development kit. |
 | ReadMe.md | Provide information about this example. |
-| pic.png | Photo of the Nucleo-F446RE development board|
+| pic.jpg | Photo of the Nucleo-F446RE development board|
 
 ## Procedure
 
