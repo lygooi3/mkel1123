@@ -32,6 +32,7 @@ It will perform the LED Blink program which the board LED will blink at an inter
 <img src="https://github.com/lygooi3/mkel1123/blob/main/milestone1/pic.jpg" width="500" height="500">
 
 #### YouTube Link
+[STM32 LED Blinky](https://youtu.be/tKQf3vvvyfc)
 
 #### Reference
 
