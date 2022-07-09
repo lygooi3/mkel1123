@@ -34,7 +34,7 @@ Note : Blynk IoT platform creation will not be covered in this procedure. Please
 
 ![Actual board setup](https://github.com/lygooi3/mkel1123/blob/main/pic.jpg)
 
-![Blynk IoT platform](https://github.com/lygooi3/mkel1123/blob/main/pic.jpg)
+![Blynk IoT platform](https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic2.PNG)
 
 **Disclaimer:**
 The software development for sensor modules is not complete, and may prone to errors. Please refer to Reference section for similar sensor module libraries. 
