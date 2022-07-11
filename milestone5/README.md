@@ -33,8 +33,8 @@ Note : Blynk IoT platform creation will not be covered in this procedure. Please
 | AD8232 Heart Rate Monitor | OUT<br>LO+<br>LO-| STM32 ADC1_10 (PC_0)<br>STM32 GPIO_Input (PC_1)<br>STM32 GPIO_Input (PA_4) |
 | MAX30102 Pulse Oximeter | SCL<br>SDA<br>INT | STM32 I2C1_SCL (PB_8)<br>STM32 I2C1_SDA (PB_9)<br>STM32 GPIO_EXT_INT (PA_6) |
 
-**Actual Board Setup**
-![Actual board setup](https://github.com/lygooi3/mkel1123/blob/main/pic.jpg)
+**Latest Board Setup**
+![Latest board setup](https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic1.JPEG)
 
 **Blynk IoT Platfrom**
 ![Blynk IoT platform](https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic2.PNG)
