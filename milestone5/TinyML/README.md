@@ -1,5 +1,5 @@
 # TinyML for Health Monitoring System
-In this tutorial, we will show you how we create a neural network model using TensorFlow platform and deploy the pre-trained model into STM32F446 chip to run inference for digit recognition.
+In this tutorial, we will show you how we create a neural network model using TensorFlow platform and deploy the pre-trained model into STM32F446 chip to run inference for health condition recoginition.
 
 **Implementing TinyML**
 
@@ -19,7 +19,8 @@ Please refer to documentation.pdf for a detailed procedure.
 [System Showcase (Under-development)](https://www.youtube.com/watch?v=Uouznfx2jsg)
 
 ###  Reference :
- 1. [Digit Recognition on STM32 with X-CUBE-AI](https://github.com/hui3678/Digit_Recognition2)
+ 1. [TinyML: Getting Started with STM32 X-CUBE-AI](https://www.digikey.my/en/maker/projects/tinyml-getting-started-with-stm32-x-cube-ai/f94e1c8bfc1e4b6291d0f672d780d2c0)
+ 2. [Digit Recognition on STM32 with X-CUBE-AI](https://github.com/hui3678/Digit_Recognition2)
 
  
 
