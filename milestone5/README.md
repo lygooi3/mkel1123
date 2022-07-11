@@ -34,10 +34,12 @@ Note : Blynk IoT platform creation will not be covered in this procedure. Please
 | MAX30102 Pulse Oximeter | SCL<br>SDA<br>INT | STM32 I2C1_SCL (PB_8)<br>STM32 I2C1_SDA (PB_9)<br>STM32 GPIO_EXT_INT (PA_6) |
 
 **Latest Board Setup**
-![Latest board setup](https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic1.jpeg)
+
+<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic1.jpeg" width="300" height="400">
 
 **Blynk IoT Platfrom**
-![Blynk IoT platform](https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic2.PNG)
+
+<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic2.PNG" width="708" height="400">
 
 **Disclaimer:**
 The software development for sensor modules is not complete, and may prone to errors. Please refer to Reference section for similar sensor module libraries. 
