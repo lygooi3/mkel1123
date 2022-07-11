@@ -16,7 +16,7 @@ Note : You are free to use any available STM32 Nucleo-64 development board in yo
 Please refer to documentation.pdf for a detailed procedure.
 
 ###  YouTube Link :
-[System Showcase (Under-development)](https://www.youtube.com/watch?v=Uouznfx2jsg)
+[System Showcase (Under-development)](https://youtu.be/NCCzjORwDRg)
 
 ###  Reference :
  1. [TinyML: Getting Started with STM32 X-CUBE-AI](https://www.digikey.my/en/maker/projects/tinyml-getting-started-with-stm32-x-cube-ai/f94e1c8bfc1e4b6291d0f672d780d2c0)
