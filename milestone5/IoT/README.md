@@ -45,7 +45,7 @@ Note : Blynk IoT platform creation will not be covered in this procedure. Please
 The software development for sensor modules is not complete, and may prone to errors. Please refer to Reference section for similar sensor module libraries. 
 
 ### YouTube Link : 
-[System Showcase (Under-development)](https://www.youtube.com/watch?v=Uouznfx2jsg)
+[System Showcase (Under-development)](https://youtu.be/NCCzjORwDRg)
 
 ### Reference :
  1. [Getting Started with STM32 - Introduction to STM32CubeIDE by Digikey](https://www.digikey.my/en/maker/projects/getting-started-with-stm32-introduction-to-stm32cubeide/6a6c60a670c447abb90fd0fd78008697)
