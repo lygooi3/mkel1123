@@ -35,11 +35,11 @@ Note : Blynk IoT platform creation will not be covered in this procedure. Please
 
 **Latest Board Setup**
 
-<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic1.jpeg" width="300" height="400">
+<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone5/IoT/pic1.jpeg" width="300" height="400">
 
 **Blynk IoT Platfrom**
 
-<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone5/pic2.PNG" width="708" height="400">
+<img src="https://github.com/lygooi3/mkel1123/blob/main/milestone5/IoT/pic2.PNG" width="708" height="400">
 
 **Disclaimer:**
 The software development for sensor modules is not complete, and may prone to errors. Please refer to Reference section for similar sensor module libraries. 
