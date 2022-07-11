@@ -13,7 +13,7 @@ Note : You are free to use any available STM32 Nucleo-64 development board in yo
 - TensorFlow software library ([Link](https://www.tensorflow.org/overview/))
 
 ##  Procedure
-Please refer to documentation.pdf.
+Please refer to documentation.pdf for a detailed procedure.
 
 ###  YouTube Link :
 [System Showcase (Under-development)](https://www.youtube.com/watch?v=Uouznfx2jsg)
